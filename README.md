@@ -4,3 +4,4 @@ If the photoresistor(or LDR) senses dim light or no light in the room then it au
 In my case I used Arduino Uno R3 which receives the feed from the sensor and glows the led.
 A brief description of the hardware and the running code is mentioned in this repo.
 :)
+![Circuit_diagram](circuit_diagram.PNG)
